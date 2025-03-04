@@ -1,0 +1,474 @@
+{
+    "compos": [
+        {
+            "id": 0,
+            "class": "Compo",
+            "height": 175,
+            "width": 89,
+            "position": {
+                "column_min": 421,
+                "row_min": 3,
+                "column_max": 510,
+                "row_max": 178
+            }
+        },
+        {
+            "id": 1,
+            "class": "Compo",
+            "height": 9,
+            "width": 26,
+            "position": {
+                "column_min": 126,
+                "row_min": 161,
+                "column_max": 152,
+                "row_max": 170
+            }
+        },
+        {
+            "id": 2,
+            "class": "Compo",
+            "height": 28,
+            "width": 17,
+            "position": {
+                "column_min": 457,
+                "row_min": 179,
+                "column_max": 474,
+                "row_max": 207
+            }
+        },
+        {
+            "id": 3,
+            "class": "Compo",
+            "height": 55,
+            "width": 158,
+            "position": {
+                "column_min": 414,
+                "row_min": 335,
+                "column_max": 572,
+                "row_max": 390
+            }
+        },
+        {
+            "id": 4,
+            "class": "Compo",
+            "height": 28,
+            "width": 28,
+            "position": {
+                "column_min": 314,
+                "row_min": 411,
+                "column_max": 342,
+                "row_max": 439
+            }
+        },
+        {
+            "id": 5,
+            "class": "Compo",
+            "height": 22,
+            "width": 22,
+            "position": {
+                "column_min": 133,
+                "row_min": 417,
+                "column_max": 155,
+                "row_max": 439
+            }
+        },
+        {
+            "id": 6,
+            "class": "Compo",
+            "height": 21,
+            "width": 22,
+            "position": {
+                "column_min": 274,
+                "row_min": 417,
+                "column_max": 296,
+                "row_max": 438
+            }
+        },
+        {
+            "id": 7,
+            "class": "Compo",
+            "height": 21,
+            "width": 24,
+            "position": {
+                "column_min": 355,
+                "row_min": 417,
+                "column_max": 379,
+                "row_max": 438
+            }
+        },
+        {
+            "id": 8,
+            "class": "Compo",
+            "height": 22,
+            "width": 22,
+            "position": {
+                "column_min": 397,
+                "row_min": 417,
+                "column_max": 419,
+                "row_max": 439
+            }
+        },
+        {
+            "id": 9,
+            "class": "Compo",
+            "height": 21,
+            "width": 21,
+            "position": {
+                "column_min": 439,
+                "row_min": 417,
+                "column_max": 460,
+                "row_max": 438
+            }
+        },
+        {
+            "id": 10,
+            "class": "Compo",
+            "height": 34,
+            "width": 37,
+            "position": {
+                "column_min": 472,
+                "row_min": 412,
+                "column_max": 509,
+                "row_max": 446
+            }
+        },
+        {
+            "id": 11,
+            "class": "Compo",
+            "height": 18,
+            "width": 22,
+            "position": {
+                "column_min": 521,
+                "row_min": 418,
+                "column_max": 543,
+                "row_max": 436
+            }
+        },
+        {
+            "id": 12,
+            "class": "Compo",
+            "height": 23,
+            "width": 23,
+            "position": {
+                "column_min": 562,
+                "row_min": 416,
+                "column_max": 585,
+                "row_max": 439
+            }
+        },
+        {
+            "id": 13,
+            "class": "Compo",
+            "height": 18,
+            "width": 22,
+            "position": {
+                "column_min": 603,
+                "row_min": 420,
+                "column_max": 625,
+                "row_max": 438
+            }
+        },
+        {
+            "id": 14,
+            "class": "Compo",
+            "height": 17,
+            "width": 23,
+            "position": {
+                "column_min": 644,
+                "row_min": 419,
+                "column_max": 667,
+                "row_max": 436
+            }
+        },
+        {
+            "id": 15,
+            "class": "Compo",
+            "height": 13,
+            "width": 14,
+            "position": {
+                "column_min": 189,
+                "row_min": 421,
+                "column_max": 203,
+                "row_max": 434
+            }
+        },
+        {
+            "id": 16,
+            "class": "Text",
+            "height": 10,
+            "width": 63,
+            "position": {
+                "column_min": 2,
+                "row_min": 30,
+                "column_max": 65,
+                "row_max": 40
+            },
+            "text_content": "EEEre."
+        },
+        {
+            "id": 17,
+            "class": "Text",
+            "height": 15,
+            "width": 55,
+            "position": {
+                "column_min": 65,
+                "row_min": 28,
+                "column_max": 120,
+                "row_max": 43
+            },
+            "text_content": "\u043e\u0452\u043f\u0430\u0440\u0440"
+        },
+        {
+            "id": 18,
+            "class": "Text",
+            "height": 12,
+            "width": 164,
+            "position": {
+                "column_min": 123,
+                "row_min": 30,
+                "column_max": 287,
+                "row_max": 42
+            },
+            "text_content": "AgpDataLoca Pr\u0447graE"
+        },
+        {
+            "id": 19,
+            "class": "Text",
+            "height": 13,
+            "width": 96,
+            "position": {
+                "column_min": 288,
+                "row_min": 29,
+                "column_max": 384,
+                "row_max": 42
+            },
+            "text_content": "PythnPyth"
+        },
+        {
+            "id": 20,
+            "class": "Text",
+            "height": 15,
+            "width": 40,
+            "position": {
+                "column_min": 0,
+                "row_min": 75,
+                "column_max": 40,
+                "row_max": 90
+            },
+            "text_content": "Ython"
+        },
+        {
+            "id": 21,
+            "class": "Text",
+            "height": 16,
+            "width": 118,
+            "position": {
+                "column_min": 107,
+                "row_min": 75,
+                "column_max": 225,
+                "row_max": 91
+            },
+            "text_content": "Lib ithreading. py"
+        },
+        {
+            "id": 22,
+            "class": "Text",
+            "height": 14,
+            "width": 28,
+            "position": {
+                "column_min": 233,
+                "row_min": 75,
+                "column_max": 261,
+                "row_max": 89
+            },
+            "text_content": "in\u0435"
+        },
+        {
+            "id": 23,
+            "class": "Text",
+            "height": 14,
+            "width": 32,
+            "position": {
+                "column_min": 266,
+                "row_min": 76,
+                "column_max": 298,
+                "row_max": 90
+            },
+            "text_content": "158."
+        },
+        {
+            "id": 24,
+            "class": "Text",
+            "height": 13,
+            "width": 16,
+            "position": {
+                "column_min": 304,
+                "row_min": 76,
+                "column_max": 320,
+                "row_max": 89
+            },
+            "text_content": "i\u043f"
+        },
+        {
+            "id": 25,
+            "class": "Text",
+            "height": 15,
+            "width": 63,
+            "position": {
+                "column_min": 324,
+                "row_min": 75,
+                "column_max": 387,
+                "row_max": 90
+            },
+            "text_content": "Shurtdohn"
+        },
+        {
+            "id": 26,
+            "class": "Text",
+            "height": 13,
+            "width": 46,
+            "position": {
+                "column_min": 2,
+                "row_min": 124,
+                "column_max": 48,
+                "row_max": 137
+            },
+            "text_content": "Lliet?"
+        },
+        {
+            "id": 27,
+            "class": "Text",
+            "height": 16,
+            "width": 43,
+            "position": {
+                "column_min": 54,
+                "row_min": 122,
+                "column_max": 97,
+                "row_max": 138
+            },
+            "text_content": "\u0434t\u045bgn"
+        },
+        {
+            "id": 28,
+            "class": "Text",
+            "height": 20,
+            "width": 62,
+            "position": {
+                "column_min": 100,
+                "row_min": 121,
+                "column_max": 162,
+                "row_max": 141
+            },
+            "text_content": "Finab. py"
+        },
+        {
+            "id": 29,
+            "class": "Text",
+            "height": 10,
+            "width": 46,
+            "position": {
+                "column_min": 22,
+                "row_min": 161,
+                "column_max": 68,
+                "row_max": 171
+            },
+            "text_content": "Epager-"
+        },
+        {
+            "id": 30,
+            "class": "Text",
+            "height": 9,
+            "width": 30,
+            "position": {
+                "column_min": 82,
+                "row_min": 160,
+                "column_max": 112,
+                "row_max": 169
+            },
+            "text_content": "E-"
+        },
+        {
+            "id": 31,
+            "class": "Text",
+            "height": 13,
+            "width": 38,
+            "position": {
+                "column_min": 182,
+                "row_min": 159,
+                "column_max": 220,
+                "row_max": 172
+            },
+            "text_content": "Pyi\u045bgn"
+        },
+        {
+            "id": 32,
+            "class": "Text",
+            "height": 10,
+            "width": 32,
+            "position": {
+                "column_min": 232,
+                "row_min": 160,
+                "column_max": 264,
+                "row_max": 170
+            },
+            "text_content": ".1.6"
+        },
+        {
+            "id": 33,
+            "class": "Text",
+            "height": 10,
+            "width": 38,
+            "position": {
+                "column_min": 262,
+                "row_min": 161,
+                "column_max": 300,
+                "row_max": 171
+            },
+            "text_content": "teEpt."
+        },
+        {
+            "id": 34,
+            "class": "Text",
+            "height": 10,
+            "width": 33,
+            "position": {
+                "column_min": 297,
+                "row_min": 161,
+                "column_max": 330,
+                "row_max": 171
+            },
+            "text_content": "Yen"
+        },
+        {
+            "id": 35,
+            "class": "Text",
+            "height": 31,
+            "width": 130,
+            "position": {
+                "column_min": 334,
+                "row_min": 216,
+                "column_max": 464,
+                "row_max": 247
+            },
+            "text_content": "\u0445.\u0437e"
+        },
+        {
+            "id": 36,
+            "class": "Text",
+            "height": 14,
+            "width": 35,
+            "position": {
+                "column_min": 207,
+                "row_min": 421,
+                "column_max": 242,
+                "row_max": 435
+            },
+            "text_content": "\u0435\u0430\u0433\u0435\u045b"
+        }
+    ],
+    "img_shape": [
+        450,
+        799,
+        3
+    ]
+}

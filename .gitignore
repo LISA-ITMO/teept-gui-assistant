@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+venv/
+env/
+.myenv/
+
+__pycache__/
+*.py[cod]
+*.pyc
+
+.vscode/
+.idea/
+
+*.log
+*.sqlite
